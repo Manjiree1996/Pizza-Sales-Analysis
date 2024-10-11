@@ -1,8 +1,8 @@
 # Pizza-Sales-Analysis
 # Problem Statement
-With the help of this dashboard, we would like to visualize various aspects of our pizza sales data to gain insights into our business performance. 
-we would know about the daily and monthly trend of total orders over a specific time period also shared pizza sales by customer preferences.
-also highlighting Top 5 & Bottom 5 best-selling pizza based on Revenue, Total Quantity & Total Orders.
+With the help of this dashboard, we like to visualize various aspects of pizza sales data to gain insights of business performance. 
+We would know about the daily and monthly trend of total orders over a specific time period also shared pizza sales by customer preferences.
+Also highlighting Top 5 & Bottom 5 selling pizza based on Revenue, Total Quantity & Total Orders.
 
 # KPI's Requirement
 1. Total Revenue
